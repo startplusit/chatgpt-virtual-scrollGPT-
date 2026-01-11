@@ -195,7 +195,7 @@ If this project helps you, consider supporting the author ❤️
 如果这个项目帮到了你，欢迎支持作者喝杯咖啡 ❤️  
 
 <p align="center">
-  <img src="./donate-wechat.png" width="260" alt="WeChat Donate QR">
+  <img src="./donate-wechat.png" width="460" alt="WeChat Donate QR">
 </p>
 
 **Your support keeps this project alive and improving.**  
