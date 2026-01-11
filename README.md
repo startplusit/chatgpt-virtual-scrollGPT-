@@ -1,6 +1,7 @@
 # ChatGPT Virtual Scroll Engine  
 ChatGPT 网页长对话虚拟滚动引擎
-
+Below is the bilingual introduction in Chinese and English:
+以下为中英文双语介绍：
 Fix ChatGPT web lag on long conversations using smart virtual scrolling.  
 使用智能虚拟滚动技术，解决 ChatGPT 网页版长对话卡顿问题。
 
