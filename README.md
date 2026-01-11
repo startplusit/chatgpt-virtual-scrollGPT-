@@ -173,20 +173,17 @@ Made with ❤️ for everyone who lives in long ChatGPT conversations.
 为所有长期和 ChatGPT 对话的人而生。
 ---
 
-## ☕ Buy Me a Coffee | 微信赞赏支持
+## ☕ Buy Me a Coffee | 微信赞赏
 
-If this project saves you time, money, or frustration,  
-you can support the author with a small donation.
+If this project helps you, consider supporting the author ❤️  
+如果这个项目帮到了你，欢迎支持作者喝杯咖啡 ❤️
 
-如果这个项目帮你节省了时间、提升了效率，  
-欢迎用一杯咖啡的价格支持作者持续维护 ❤️
+Click the QR code to enlarge:  
+点击二维码可放大查看：
 
-**WeChat / 微信赞赏**
-
-> Scan the QR code below to support the project  
-> 扫描下方二维码赞赏作者
-
-![WeChat Donate](./donate-wechat.png)
+<p align="center">
+  <img src="./donate-wechat.png" width="200" alt="WeChat Donate QR">
+</p>
 
 Your support helps keep this project alive and improving.  
 你的支持将帮助这个项目持续维护与进化。
