@@ -182,7 +182,7 @@ Click the QR code to enlarge:
 点击二维码可放大查看：
 
 <p align="center">
-  <img src="./donate-wechat.png" width="200" alt="WeChat Donate QR">
+  <img src="./donate-wechat.png" width="400" alt="WeChat Donate QR">
 </p>
 
 Your support helps keep this project alive and improving.  
