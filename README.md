@@ -193,7 +193,7 @@ MIT 开源协议，可自由使用与修改。
 
 If this project helps you, consider supporting the author ❤️  
 如果这个项目帮到了你，欢迎支持作者喝杯咖啡 ❤️  
-
+paypal：https://paypal.me/DKW3588
 <p align="center">
   <img src="./donate-wechat.png" width="460" alt="WeChat Donate QR">
 </p>
