@@ -228,7 +228,10 @@ MIT 开源协议，可自由使用与修改。
 - Edge / Chrome extension  
 - Automatic memory cleanup  
 - Mobile-friendly UI  
-
+- Mr._K,_The_Creator / Better ChatGPT Assistant（更好的ChatGPT网页版多功能增强小助手）
+- Version: 6.2.0+4b972d9
+- Summary: Better ChatGPT Assistant powered by Virtual Scroll Engine 6.0 — ultra-smooth long chats, export, token monitor, i18n, and more.
+ Antifeature: unspecified
 ---
 
 ## ☕ **Buy Me a Coffee | 微信赞赏**
