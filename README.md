@@ -134,21 +134,10 @@ You can switch modes in real time using the iOS-style segmented control.
 ---
 
 # 📦 **Installation | 安装方法**
-  方法1：https://openuserjs.org/scripts/Mr._K,_The_Creator/Better_ChatGPT_Assistant%EF%BC%88%E6%9B%B4%E5%A5%BD%E7%9A%84ChatGPT%E7%BD%91%E9%A1%B5%E7%89%88%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%89
-浏览器点击链接安装油猴脚本，前提是你有油猴插件
-
-  方法2：
-This is a UserScript.  
-这是一个油猴脚本。
-
-1. **Install a userscript manager | 安装脚本管理器**
-   - Tampermonkey (Chrome / Edge)  
-   - Violentmonkey (Firefox)
-
-2. **Install this script | 安装脚本**  
-   复制本仓库中的脚本代码，粘贴到 Tampermonkey 中保存。
-
-3. **Open ChatGPT | 打开**  
+  方法1：
+  购买后，按照里面教程安装[https://openuserjs.org/scripts/Mr._K,_The_Creator/Better_ChatGPT_Assistant%EF%BC%88%E6%9B%B4%E5%A5%BD%E7%9A%84ChatGPT%E7%BD%91%E9%A1%B5%E7%89%88%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%89](https://www.xiaohongshu.com/explore/69637564000000002202dfe5?source=webshare&xhsshare=pc_web&xsec_token=AB9lul4JtnDDDzI6IG1jhhhwNLFPQGf1If2GpEQbZAOQQ=&xsec_source=pc_share)
+浏览器点击云盘链接安装油猴脚本，前提是你有油猴插件
+ **Open ChatGPT | 打开**  
    https://chat.openai.com  
    or  
    https://chatgpt.com  
